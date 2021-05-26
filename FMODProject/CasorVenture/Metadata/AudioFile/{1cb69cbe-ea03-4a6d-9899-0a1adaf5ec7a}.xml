@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{1cb69cbe-ea03-4a6d-9899-0a1adaf5ec7a}">
+		<property name="assetPath">
+			<value>Player/Combat/heavy2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5968253968253969</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2f72bbc1-3ce7-49de-99e6-85ccdf8aaafa}</destination>
+		</relationship>
+	</object>
+</objects>

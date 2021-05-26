@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ffdb9475-9b6e-4f66-93cb-f57c77bd329f}">
+		<property name="assetPath">
+			<value>Ambience/Sword_Hit_Wood_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.91941666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2f72bbc1-3ce7-49de-99e6-85ccdf8aaafa}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{dded2c87-4981-459b-997d-6326a1929e60}">
+		<property name="assetPath">
+			<value>Player/Injured/female_dying.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.0261904761904761</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2f72bbc1-3ce7-49de-99e6-85ccdf8aaafa}</destination>
+		</relationship>
+	</object>
+</objects>

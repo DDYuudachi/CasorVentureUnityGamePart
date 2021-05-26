@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{9b7d797b-0045-4cf4-a29f-64384d2988a7}">
+		<property name="assetPath">
+			<value>Enemy/Injured/man_dying.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3652916666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2f72bbc1-3ce7-49de-99e6-85ccdf8aaafa}</destination>
+		</relationship>
+	</object>
+</objects>

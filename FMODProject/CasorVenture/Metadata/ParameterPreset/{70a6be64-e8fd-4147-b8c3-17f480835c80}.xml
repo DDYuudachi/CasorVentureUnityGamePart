@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{70a6be64-e8fd-4147-b8c3-17f480835c80}">
+		<property name="name">
+			<value>WoodHP</value>
+		</property>
+		<relationship name="folder">
+			<destination>{aca08bc0-8aaa-4a9d-98b3-09fff027b9a9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7a350a96-4f7f-4873-83f4-2375b1c51d8a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7a350a96-4f7f-4873-83f4-2375b1c51d8a}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>101</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
